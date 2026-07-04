@@ -32,11 +32,7 @@ public class TicketDemo {
             // Prompt the user for student status.
             // Any response other than 'y' is treated as not a student.
         System.out.print("Are you a student? (y/n): ");
-        if(Character.toLowerCase(read.next().charAt(0))=='y'){
-            is_student=true;
-        } else{
-            is_student=false;
-        }
+        is_student = Character.toLowerCase(read.next().charAt(0))=='y';
             //ask for how many of each ticket
             //since we have the event names as a string, we can easily iterate over them in a for loop
         for (int i = 0; i < arr.length; i++) {
