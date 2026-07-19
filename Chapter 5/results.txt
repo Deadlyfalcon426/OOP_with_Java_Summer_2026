@@ -1,0 +1,5 @@
+--- results.txt contents ---
+Kane   | Avg: 74.0 | Grade: C
+Virgil | Avg: 88.7 | Grade: B
+Salah  | Avg: 93.0 | Grade: A
+Class Average: 85.2
