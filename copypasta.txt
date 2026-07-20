@@ -1,5 +1,0 @@
-// Student Name: Ahsan Mohammed
-// Course: CSC-162-INE1 
-// Lab Name: Lab 01 — Campus Event Ticket Calculator 
-Concert          g
-Workshop         g
